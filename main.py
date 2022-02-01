@@ -19,4 +19,4 @@ def mezot_rajzol(szel, hossz):
                 print('O ', end='')
         print()
 
-mezot_rajzol(4,1)
+mezot_rajzol(5,1)
